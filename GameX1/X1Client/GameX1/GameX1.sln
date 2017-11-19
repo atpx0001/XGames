@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameX1", "GameX1.csproj", "{BF2E0002-D926-F2EB-2DF0-05EFC2D14FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameX1.Editor", "GameX1.Editor.csproj", "{2957431B-1771-8E5B-0C49-1D10187D6025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2E0002-D926-F2EB-2DF0-05EFC2D14FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2E0002-D926-F2EB-2DF0-05EFC2D14FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2E0002-D926-F2EB-2DF0-05EFC2D14FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2E0002-D926-F2EB-2DF0-05EFC2D14FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2957431B-1771-8E5B-0C49-1D10187D6025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2957431B-1771-8E5B-0C49-1D10187D6025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2957431B-1771-8E5B-0C49-1D10187D6025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2957431B-1771-8E5B-0C49-1D10187D6025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
